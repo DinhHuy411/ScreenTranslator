@@ -1,5 +1,7 @@
 # Screen Translator
 
+Bấm đúp vào create_shortcut để tạo shortcut. hoặc mở terminal python "đường dẫn file main.py" để chạy.
+
 Nhấn phím tắt -> kéo chọn vùng màn hình -> OCR -> dịch sang tiếng Việt -> hiện kết quả.
 
 ## Cài đặt (Windows)
