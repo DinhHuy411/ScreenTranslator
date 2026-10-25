@@ -10,11 +10,13 @@ DEFAULT = {
 }
 # Tên hiển thị -> (mã dịch, mã Tesseract)
 LANGS = {
-    "Tự động nhận diện": ("auto", "eng+jpn+kor+chi_sim"),
+    "Tự động nhận diện": ("auto", "eng+jpn+kor+chi_sim+deu+rus"),
     "Tiếng Anh": ("en", "eng"),
     "Tiếng Nhật": ("ja", "jpn"),
     "Tiếng Hàn": ("ko", "kor"),
     "Tiếng Trung": ("zh-CN", "chi_sim"),
+    "Tiếng Đức": ("de", "deu"),
+    "Tiếng Nga": ("ru", "rus"),
 }
 
 
